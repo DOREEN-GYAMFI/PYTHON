@@ -29,3 +29,27 @@ Task 9 - Towards Defensive Programming
 
 
 Task 11 - String Handling 
+
+
+## **How to install This Project Locally**
+ **Installation**
+
+To install and run this project locally, follow these steps:
+
+1. Clone this repository to your local machine:
+   git clone https://github.com/DOREEN-GYAMFI/PYTHON/tree/main/Data-Science-Fundamentals-Tasks-main/Data%20Science%20(Fundamentals)%20Tasks%20-Python
+  
+2. Navigate to the project directory:
+   cd your-repository
+
+
+3. Install project dependencies:
+   npm install
+
+
+4. Start the project:
+   npm start
+
+5. Open your web browser and visit `http://localhost:3000` to see the project in action.
+
+
