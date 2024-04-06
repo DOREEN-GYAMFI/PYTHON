@@ -9,4 +9,4 @@ Interpretation reveals Potential Loyalists, High-Value Customers, At-Risk Custom
 
 Recommendations include tailored strategies for each segment, such as encouraging repeat purchases for Potential Loyalists and VIP treatment for High-Value Customers. This approach enhances customer satisfaction, loyalty, and business growth. Continuous monitoring and adaptation of strategies ensure competitiveness.
 
-For more details, visit [Medium](link_to_medium_article).
+For more details, visit [Medium](https://medium.com/@dgyafia1/customer-segmentation-with-different-clustering-algorithms-using-python-rfm-analysis-fbcadf885bd9).
